@@ -1,6 +1,6 @@
 # Kassu Gebresellasie, Ph.D.
 
-AI engineer building agentic workflows. Physicist by training, with a Ph.D. in Computational Data Science and Engineering (North Carolina A&T, 2017), an M.Sc. in physics (Memorial University of Newfoundland) and a visiting-scholar year at MIT's Laboratory for Atomistic and Molecular Mechanics. Founder of Orthoai. Based in the Greater Toronto Area.
+AI engineer building agentic workflows. Physicist by training, with a Ph.D. in Computational Data Science and Engineering from North Carolina A&T State University, Greensboro, North Carolina, USA (2017), a visiting-scholar year at MIT's Laboratory for Atomistic and Molecular Mechanics, Cambridge, Massachusetts, and an M.Sc. in physics from Memorial University of Newfoundland, Canada. Founder of Orthoai.
 
 ## What I work on
 
